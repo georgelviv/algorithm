@@ -1,1 +1,1 @@
-export { insertionSort } from './index.mjs';
+export * from './insertion-sort.mjs';
