@@ -1,10 +1,10 @@
 import { hornerScheme } from './horner-scheme';
 
-const polynomArr = [2, -6, 2, -1];
-const x = 3;
+const polynomArr = [5, 5, 1, 0, -11];
+const x = 1;
 
 console.log(`
-  LinearSeacrh
+  Horner Scheme
   INPUT: polynomArr = ${ polynomArr },  x = ${ 3 }
   OUTPUT: ${ hornerScheme(polynomArr, x) }
 `);
