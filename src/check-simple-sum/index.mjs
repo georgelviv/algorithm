@@ -1,0 +1,1 @@
+export { checkSimpleSum } from './check-simple-sum';
