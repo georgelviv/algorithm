@@ -5,4 +5,4 @@ Algorytms writed in *.mjs format, which allows to use import/export syntax in no
 
 node --experimental-modules ...
 
-https://georgelviv.github.io/algorithm/
+https://georgelviv.github.io/algorithm/index
