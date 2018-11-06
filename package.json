@@ -1,0 +1,30 @@
+{
+  "name": "algorithm",
+  "version": "0.0.1",
+  "description": "algorithms writed in js",
+  "main": "./src/index.mjs",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgelviv/algorithm.git"
+  },
+  "keywords": [
+    "js",
+    "algoritms"
+  ],
+  "author": "lvivgeorge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgelviv/algorithm/issues"
+  },
+  "homepage": "https://github.com/georgelviv/algorithm#readme"
+}
