@@ -42,5 +42,4 @@ function merge(arr, p, c, q) {
   }
 
   return arr;
-
 }
